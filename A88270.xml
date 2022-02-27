@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters from Col. Robert Lilburne. The one to the Honourable William Lenthall Esquire, Speaker of the Parliament. The other to his Excellency the Lord Generall. Containing the particulars of the totall rout and overthrow of the Earl of Derby, and the forces under his command in Lancashire on the 25 of August 1651. By the Parliament forces under the said Colonel Robert Lilburne. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+            <author>Lilburne, Robert, 1613-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88270</idno>
+            <idno type="STC">Wing L2200</idno>
+            <idno type="STC">Thomason E640_26</idno>
+            <idno type="STC">ESTC R206685</idno>
+            <idno type="EEBO-CITATION">99865800</idno>
+            <idno type="PROQUEST">99865800</idno>
+            <idno type="VID">165934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165934)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters from Col. Robert Lilburne. The one to the Honourable William Lenthall Esquire, Speaker of the Parliament. The other to his Excellency the Lord Generall. Containing the particulars of the totall rout and overthrow of the Earl of Derby, and the forces under his command in Lancashire on the 25 of August 1651. By the Parliament forces under the said Colonel Robert Lilburne. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+                  <author>Lilburne, Robert, 1613-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neere Hosier Lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 6: Rob: Lilburne.</note>
+                  <note>Annotation on Thomason copy: "Aug: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165934:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>TVVO LETTERS FROM Col. <hi>ROBERT LILB<g ref="char:V">Ʋ</g>RNE.</hi> The one to the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Parliament. The other <hi>To his Excellency the Lord Generall.</hi>
+            </p>
+            <p>CONTAINING The particulars of the totall Rout and over<g ref="char:EOLhyphen"/>throw of the Earl of DERBY, and the Forces under his Command in Lancaſhire on the 25 of Auguſt 1651.</p>
+            <p>By the Parliament forces under the ſaid Colonel <hi>Robert Lilburne.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neere Hoſier Lane end. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:165934:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="1" facs="tcp:165934:2"/>
+            <!-- PDF PAGE 56 -->
+            <div n="Robert Lilburne to William Lenthall" type="letter">
+               <opener>
+                  <salute>Mr. Speaker:</salute>
+               </opener>
+               <p>MY Lord Generall being pleaſed to command me to ſtay here to aſſiſt the well-affected againſt the Lord <hi>Derby,</hi> who was then at <hi>Warrington</hi> in this County with ſome conſiderable Force both from the <hi>Iſle of Man,</hi> and which he had from the <hi>Scots</hi> Army, where-with he did not only much encourage the Enemies, but alſo diſcourage all the well-affect<g ref="char:EOLhyphen"/>ed in theſe Counties of <hi>Lancaſhire</hi> and <hi>Cheſhire,</hi> and whereof he thought himſelfe wholly Maſter; as indeed he was, and none in thoſe Counties were able, or durſt appeare againſt him, and began to beate Drums, and raiſe men in all places where he came, and would have been very ſtrong in a ſhort time, not only through the acceſſe of many Malignants, Pa<g ref="char:EOLhyphen"/>piſts, and diſ-affected Perſons, but that aſſiſtance the Mini<g ref="char:EOLhyphen"/>ſters, and thoſe who are called Presbyterians afforded, and would have more abundantly appeared, for they are the men who are growne here more bitter &amp; envious againſt you then others of the old Cavaliers ſtamp, the power of the Almigh<g ref="char:EOLhyphen"/>ty was very much ſeene in the totall over-throw (I hope) of that wicked deſigne which was laid, and hatched not only here, but through the whole North of <hi>England,</hi> who was get<g ref="char:EOLhyphen"/>ting into the like Poſture, as you may further underſtand by thoſe papers I have here ſent you, but that God who hath all along appeared with us, and for us, hath ſhewed himſelfe very good, and powerfull in the diſcipating of this Enemy, who was about fourteen or fifteen hundred ſtrong; I had on<g ref="char:EOLhyphen"/>ly three Companies of Foot, abou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fifty or ſixty Dragoons, and about thirty Horſe from <hi>Liver-poole,</hi> with my owne wea<g ref="char:EOLhyphen"/>ried, and ſome what ſcittered Regiment, through our tedious march from <hi>Scotland,</hi> and hard duty we had here.</p>
+               <pb n="2" facs="tcp:165934:3"/>
+               <!-- PDF PAGE 57 -->
+               <p>Yeſterday morning about 11 or 12 a clock in the night the enemy marched from <hi>Preſton,</hi> we lying within two or three miles of them, where we expected thoſe ſupplyes of Forces which came not: ſome of our intelligence informing us, the Enemy more running away towards their Army with what they had gotten; we purſued them hither with ſome confidence that that Intelligence was true, and the rather we beleeved it, becauſe of ſome diſcouragement we put upon them the day before; but upon our approach hither we found it otherwiſe, for they were bending their courſe towards <hi>Mancheſter,</hi> where they had not only very great hopes of ſur<g ref="char:EOLhyphen"/>prizing my Lord Generalls Regiment of Foot, but alſo great aſſurance of the aſſiſtance of five hundred men in and about that Towne, but upon the ſight of our neare appoach they unexpectedly put themſelves into a poſture of fighting with us, which then we endeavoured to decline, in regard of the great advantage they had by their many Foote, and Hedges, and the danger we apprehended my Lord Generalls Regiment of Foot at <hi>Mancheſter</hi> to be in, we were drawing off, thinking to have marched in the left flanke of them thither, to have gained a conjunction with our Friends, who had order to march to me that day towards <hi>Preſton,</hi> we had thought to have met them in the way, having ſent ſeverall Meſſengers to let them know both the Enemies and our motion, but the Enemy perceiving us to draw off, quickly advanced upon us with their Horſe, and Foot, which we perceiving, and that we could not goe off ſafely enough, we fell to diſpute with them, which laſted almoſt one houre, our Horſe being not a<g ref="char:EOLhyphen"/>ble to doe any ſervice but in Lanes, and they over-powering us ſo much in Foot made the buſineſſe very difficult, that we hardly knew whoſe the day would be for ſo long; but there<g ref="char:EOLhyphen"/>in was the Salvation of God the more ſeen, and the greater opportunity we had to deſtroy them. I deſire that he may have the praiſe and glory of that happy ſucceſſe he was plea<g ref="char:EOLhyphen"/>ſed to give unto us, his poore Creatures; having given you this Narrative in general, which I thought it my duty to doe, this incloſed Liſt will informe you further of the particulars; I deſire the Lord would teach us to walke in ſome way anſwe<g ref="char:EOLhyphen"/>rable
+<pb n="3" facs="tcp:165934:3"/>
+                  <!-- PDF PAGE 57 -->to thoſe manifold and gracious Diſpenſations he daily gives us experience of, and manifeſts his love unto us in that his Name may be magnified in all we doe, in our ſeverall pla<g ref="char:EOLhyphen"/>ces and ſtations; this great mercy to us here I hope is the ear<g ref="char:EOLhyphen"/>neſt of his further tenderneſſe, to the great concernments of all good people in this Nation, which is the hearty deſire of</p>
+               <closer>
+                  <dateline>
+                     <hi>Wiggon</hi> 
+                     <date>
+                        <hi>the</hi> 25. <hi>of</hi> Auguſt, 1651.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your faithfull and moſt humble Servant to my power</hi> Rob. Lilburne.</signed>
+
+                  <salute>Preſent theſe: <hi>To the Right Honourable</hi> William Lenthall <abbr>
+                        <hi>Eſq</hi>
+                     </abbr> 
+                     <hi>Speaker of the Parliament of the Common-wealth of</hi> England, haſte.</salute>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>This Bearer was all the while in the Engagement, and is able to give you a further Relation.</hi>
+                  </p>
+                  <p>
+                     <hi>I have not loſt an Officer in this Engagement but one Corporall; and not above ten Souldiers ſlaine, but very many wounded.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="enclosure">
+               <list>
+                  <head>A Liſt of the Priſoners taken at <hi>Wiggon,</hi> Aug. 25. 1651.</head>
+                  <item>COl, <hi>Fhrogmorton.</hi>
+                  </item>
+                  <item>Col, <hi>Rich. Legg.</hi>
+                  </item>
+                  <item>Col. <hi>John Robbinſon.</hi>
+                  </item>
+                  <item>Col. <hi>Baynes.</hi>
+                  </item>
+                  <item>Col. <hi>Ratcliffe Gerret.</hi>
+                  </item>
+                  <item>Adjutant Generall.</item>
+                  <item>Lieut. Col. <hi>Creſon Rigby.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Francis Baynes.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Galliard.</hi>
+                  </item>
+                  <item>Lieut. Col. <hi>Constable.</hi>
+                  </item>
+                  <item>Major <hi>Gower.</hi>
+                  </item>
+                  <item>4. Captains, 2 Lieutenants, one Quartermaſter.</item>
+                  <item>20. Gentlemen and Refor<g ref="char:EOLhyphen"/>madoes.</item>
+                  <item>400. Private Priſoners,</item>
+                  <item>All their Baggage, &amp; Sump<g ref="char:EOLhyphen"/>tures, Armes, and Am<g ref="char:EOLhyphen"/>munition, the L. <hi>Derbies</hi> three Cloaks with Stars, his George, Garter, and other Robes.</item>
+               </list>
+               <list>
+                  <head>Slaine and dead ſince they were taken.</head>
+                  <item>The L. <hi>Witherington.</hi>
+                  </item>
+                  <item>Major Gen. Sir <hi>Tho. Tilſley.</hi>
+                  </item>
+                  <item>Col. <hi>Matth. Boynton.</hi>
+                  </item>
+                  <item>Major <hi>Cheſter.</hi>
+                  </item>
+                  <item>Major <hi>Trollop,</hi> and divers o<g ref="char:EOLhyphen"/>thers of quality, whoſe names are not yet brought in, beſides ſixty private men.</item>
+               </list>
+            </div>
+            <div n="Robert Lilburne to Oliver Cromwell" type="letter">
+               <pb n="4" facs="tcp:165934:4"/>
+               <!-- PDF PAGE 58 -->
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>UPon the receipt of your Orders to ſtay here with my Re<g ref="char:EOLhyphen"/>giment, I marched that day from <hi>Stopport</hi> to this Town; which was 22 miles before I reſted, hearing the Enemy was here, and thinking I might have a little ſurprized them, but they were gone to <hi>Chorley;</hi> the next day I marched after them towards <hi>Preſton,</hi> and lay within two miles of them onely with my own Regiment, and about 60 Horſe and Dragoones which is all the Country could aſſiſt me with, all this while, (ſaving onely one Company from <hi>Mancheſter</hi> of Foot and two from <hi>Chest<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> which have beene with me two dayes,) That night I ſent 40 Horſe to alarum them (who then wounded Col. <hi>Vere</hi>) hearing they were to have had a Randezvous at <hi>Preſton</hi> the next day: I did that to give notice to the Town and Country I was there to oppoſe the Earle, and to ſtay the people from riſing with him, who reported it, that none of our Forces was in that Country, and made the Country beleeve all was their owne, which the people generally tooke for granted, and was comming in a pace, as by theſe incloſed you may perceive.</p>
+               <p>The next day in the afternoone, I having not Foot with me, a party of the Enemies Horſe fell ſmartly amongſt us where our Horſes were graſing, and For ſome ſpace put us pretty hard to it, but at laſt it pleaſed the Lord to ſtrengthen us ſo, as that we put them to the flight, and purſued them to <hi>Ribble-bridge,</hi> this was ſomething like our buſineſſe at <hi>Muſsle-burgh,</hi> &amp; kild &amp; took about 30 priſoners, moſt Officers and Gentlemen, with the loſſe of two men that dyed next morning, but ſeverall wounded and divers of our good Horſes killed. That night came the three Companies of Foot, and the next morning hear<g ref="char:EOLhyphen"/>ing of your Excellencies Regiment comming towards <hi>Man<g ref="char:EOLhyphen"/>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ster,</hi> I only removed two miles to a more convenient ground, thinking to have ſtaied there till your Regiment could come, which I expected this day, but their wearineſſe fruſtrated that
+<pb n="5" facs="tcp:165934:4"/>
+                  <!-- PDF PAGE 58 -->expectation, and this morning I had intelligence that the E<g ref="char:EOLhyphen"/>nemy was upon their march, which I thought was a running away from us, being they began at 11 in the night, and march<g ref="char:EOLhyphen"/>ed ſo faſt and privately; but their confidence was much other<g ref="char:EOLhyphen"/>wiſe raiſed, having increaſed their number at <hi>Freſton</hi> and that ingagement of the <hi>Priests</hi> and <hi>Mancheſterians</hi> (who are very Malignant) to aſſiſt them with 500 Men and Armes, and the hopes that they had of ſurprizing your Excellencies Regiment put them into great heart, that when we appeared here (think<g ref="char:EOLhyphen"/>ing we had been (as it were) purſuing a flying Enemy) they ſhewed a great deale of courage by a mighty ſhout they gave beyond the Towne in ſight of us, in the way towards <hi>Man<g ref="char:EOLhyphen"/>chester,</hi> which we obſerving, together with the advantage they had of us in theſe grounds, and hearing their number of Foot was much increaſed, and the danger your Regiment was in, put us upon new thoughts when they were at one end of the town and we at the other, and reſolved rather to decline engaging with them here, then hazard the loſſe of your Regiment, and put our ſelves upon an Ingagement upon too much diſadvant<g ref="char:EOLhyphen"/>age, they exceeding us much in Foot, and we having no grounds to fight our Horſe upon, were were drawing off, thinking to have marched in the Flanke of them towards <hi>Mancheſter</hi> to have gained a Conjunction with our<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> friends there) but they ſeeing it, preſently drew through the Towne to fall upon us, which we obſerving and being ſo neere to them, reſolved to truſt God with the iſſue, and he was graciouſly pleaſed to give us a comfortable ſucceſſe to the praiſe of his great name, in a totall rout of our Enemies, who were increaſed to about 14 or 1500. and I had onely my owne Regiment and thoſe three Companies of Foot &amp; the ſixty Horſe &amp; Dragoones; The diſ<g ref="char:EOLhyphen"/>pute laſted almoſt an houre, and very difficult to us, they over<g ref="char:EOLhyphen"/>laying us ſo with Foot (having not ground for our Horſe but the laine to fight in) the ſame place where my Regiment beat up <hi>Hambletons</hi> Reare, but at laſt God gave us the day, and I de<g ref="char:EOLhyphen"/>ſire that he alone may have the praiſe for that great ſalvation he ſhewed to us a Company of poore Creatures.</p>
+               <p>As for the particulars I cannot yet give a very exact account to your Excellency, but onely that the Lord <hi>Derby</hi> is ſore hurt,
+<pb n="6" facs="tcp:165934:5"/>
+                  <!-- PDF PAGE 59 -->but eſcaped though narrowly, the Lord <hi>Widdrington</hi> and Col. Sir <hi>Will: Throgmorton</hi> dying, and <hi>Tildeſly</hi> and <hi>Boynton</hi> ſlain and ſeverall other very conſiderable perſons of great quality, and about ſixty Souldiers, and we have taken moſt of their Colours and about 400 priſoners.</p>
+               <p>I thank God I loſt not one Officer, nor above ten Souldiers that I can hear of, but many Horſes kild and ſpoiled with their pikes, which I hope your Excellency will be pleaſed to conſi<g ref="char:EOLhyphen"/>der and repaire. The Country now begins to bring in priſon<g ref="char:EOLhyphen"/>ers and to ſhew themſelves to mee, but before but a few ap<g ref="char:EOLhyphen"/>peared: The Enemies word was <hi>Jeſu</hi> &amp; their ſignall a White about their Arme, our word was <hi>Providence</hi> and ſignal Greens;</p>
+               <closer>
+                  <signed>I am (my Lord) <hi>Your Excellencies moſt humble Servant</hi> ROB: LILBURNE.</signed>
+                  <dateline>
+                     <hi>Wiggon</hi> 
+                     <date>25. <hi>Auguſt</hi> 1651. late in the evening.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div xml:lang="lat" type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>30 Auguſt 1651.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
